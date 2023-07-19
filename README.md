@@ -3,6 +3,9 @@ A real-time software 3D-rasterizer in handwritten x86 assembly.
 
 ![The output of rendering 5 of the famous "Utah Teapot" model](docs/res/5xTeapot.png)
 
+[Main repo (sr.ht)](https://sr.ht/~lasse/rSimple3D-asm/) - 
+[Mirror repo (github)](https://github.com/Janbuller/rSimple3D-asm)
+
 ---
 
 # How?
